@@ -1,3 +1,18 @@
-# IK-W70-Frimware
+# IK-W70 Firmware (Android 4.4.4, Non-Sparse)
 
-Here is the link for the frimware: link_space
+Here is the link to the firmware ZIP file: **[Download Firmware](https://your-upload-link-here)**  
+Here is the link to the MD5 checksum for that ZIP file: **[View Checksum](https://docs.google.com/document/d/1ot4JX1GOSQ6CmW9UlEryhzCdTXjSQeXy0hRgNA6EJSY/edit?usp=sharing)**  
+
+---
+
+**⚠️ Important Notes:**
+
+- Make sure you read the `README.txt` included in the ZIP.
+- The included `RKLoader.bin.5.1.1` **might not match** your Rockchip processor.
+- Confirm your chip type is **RK312X** before flashing!
+- If your device has a different processor, find a compatible loader online.
+- This firmware is intended **only** for the **Ikon IK-W70 Kids Tablet**.
+
+---
+
+I know this tablet is super rare, and that’s exactly why I created this firmware pack — to help others in the same situation! 😊
