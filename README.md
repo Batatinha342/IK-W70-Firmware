@@ -7,7 +7,7 @@ Here is the link to the MD5 checksum for that ZIP file: **[View Checksum](https:
 
 **⚠️ Important Notes:**
 
-- Make sure you read the `README.txt` included in the ZIP.
+- Make sure you read the `README.txt` included in the ZIP. It's super important to read it, or you might accedentally brick your device.
 - The included `RKLoader.bin.5.1.1` **might not match** your Rockchip processor.
 - Confirm your chip type is **RK312X** before flashing!
 - If your device has a different processor, find a compatible loader online.
