@@ -1,7 +1,7 @@
 # IK-W70 Firmware (Android 4.4.4, Non-Sparse)
 
 Here is the link to the firmware ZIP file: **[Download Firmware](https://your-upload-link-here)**  
-Here is the link to the MD5 checksum for that ZIP file: **[View Checksum](https://docs.google.com/document/d/1ot4JX1GOSQ6CmW9UlEryhzCdTXjSQeXy0hRgNA6EJSY/edit?usp=sharing)**  
+Here is the link to the MD5 checksum for that ZIP file: **[View Checksum](https://github.com/HamzahHossam12121/IK-W70-Frimware/blob/main/checksum.txt)**  
 
 ---
 
