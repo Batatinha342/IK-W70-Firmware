@@ -16,3 +16,4 @@ Here is the link to the MD5 checksum for that ZIP file: **[View Checksum](https:
 ---
 
 I know this tablet is super rare, and that’s exactly why I created this firmware pack — to help others in the same situation! 😊
+If you found this repo helpful, make sure you rate it in stars, because it took from me alot of effort to make this!
