@@ -12,7 +12,7 @@ Here is the link to the MD5 checksum for that ZIP file: **[View Checksum](https:
 - Confirm your chip type is **RK312X** before flashing!
 - If your device has a different processor, find a compatible loader online.
 - This firmware is intended **only** for the **Ikon IK-W70 Kids Tablet**.
-
+- The boot animation is modified because for fun, if you want to restore the origonal one, it's called bootanimation.zip.bak
 ---
 
 I know this tablet is super rare, and that’s exactly why I created this firmware pack — to help others in the same situation! 😊
